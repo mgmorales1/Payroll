@@ -1,0 +1,9 @@
+Name: Hans Choi            SSN:2222222   Department:IT        October Pay: 23125.00
+Name: Linda White          SSN:8888888   Department:Acct      October Pay:  1500.00
+
+Name: Hans Choi            SSN:2222222   Department:IT        October Pay: 23125.00
+Name: Linda White          SSN:8888888   Department:Acct      October Pay:  1500.00
+
+Name: Hans Choi            SSN:2222222   Department:IT        October Pay: 23125.00
+Name: Linda White          SSN:8888888   Department:Acct      October Pay:  1500.00
+

@@ -1,0 +1,5 @@
+FT May Green 7777777 Acct 50000.00 10 true
+MGR Eren Blate 9999999 HR 75000.00 20 true 15
+PT Hans Choi 2222222 IT 250 75
+PT Linda White 8888888 Acct 50.00 30 
+FT Michael DeFretas 4444444 Mkg 108000.00 15 false
